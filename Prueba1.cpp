@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 const int currentYear = 2023;
 int anio, edad;
 int main()
